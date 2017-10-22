@@ -8,3 +8,4 @@ temp = tr_data.loc[:,train_features]
 temp.fillna(-999,inplace=True)
 long_tr_data = temp.melt(id_vars='id',value_vars=train_features[1:])
 del temp
+
