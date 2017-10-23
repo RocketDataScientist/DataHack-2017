@@ -46,5 +46,7 @@
 * סט הבחינה הינו כ 90% מתוך בסיס הנתונים ואותו נדרש לסווג ל 26 מסלולים - הכוונה ל 25 המסלולים מסט האימון וסיווג מספר 26 לכל מסלול אשר מתקבלת עבורו החלטה שלא לסווגו לאף אחד מ 25 המסלולים 
 
 
-
 </div>
+
+
+![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/tree/master/visualiztion/Picture1.png "It takes a rocket data scientist!")
