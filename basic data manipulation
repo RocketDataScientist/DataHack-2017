@@ -1,0 +1,6 @@
+import pandas as pd
+
+original = pd.read_csv('data_sample.csv')
+transposed = original.transpose()
+velocities  = transposed.iloc[1:] # get rid of redundant line
+velocities = velocities.loc[velocities.index.str.startswith('velX')]
