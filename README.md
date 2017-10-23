@@ -48,5 +48,4 @@
 
 </div>
 
-
-![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/tree/master/visualiztion/Picture1.png "It takes a rocket data scientist!")
+![visualization](/visualiztion/Picture1.png)
