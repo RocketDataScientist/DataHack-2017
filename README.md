@@ -45,7 +45,7 @@
 # פרסים לזוכים:
 **המנצחים באתגר יזכו בכונן SSD חיצוני קומפקטי נייד בנפח 525GB מסוג [Glyph Atom SSD](https://www.cnet.com/products/glyph-atom-ssd/review/). השותף המושלם לאימון רשתות עמוקות on-the-go, ולגיבוי סופר-מהיר של קבצים**
 
-<img src="https://www.nettbee.com/Uploads/images/Nuevos/SKU473375-3.jpeg" alt="Glyph Atom SSD 525GB" height="200" width="200" border="2" align="middle" > 
+<img src="https://www.nettbee.com/Uploads/images/Nuevos/SKU473375-3.jpeg" alt="Glyph Atom SSD 525GB" height="300" width="450" border="2" align="center" > 
 
 # מידע על בסיס הנתונים:
 
