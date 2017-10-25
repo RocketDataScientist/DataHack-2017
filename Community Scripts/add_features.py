@@ -6,20 +6,11 @@
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-
-from sklearn.model_selection import train_test_split,KFold
-from sklearn.ensemble import ExtraTreesClassifier,RandomForestClassifier,GradientBoostingClassifier
-from sklearn.metrics import classification_report, log_loss
-from sklearn.metrics import confusion_matrix
 
 import random
 
 random.seed(12345)
 pd.options.display.max_columns = 100
-
-
-import itertools
 
 
 def add_velocities(data):
@@ -59,7 +50,6 @@ def add_acceleraion(data):
 def main():
     path = './'
     name = ''
-    out_name = path + name + 'submission_py.csv'
     train_data = pd.read_csv(path + name + '../train_sample.csv')
     print "after loading data from file, features: ", train_data.shape
 
