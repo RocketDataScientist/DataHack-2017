@@ -1,5 +1,17 @@
 # RAFAEL Challenge - DataHack 2017 
 
+# DATA IS ONLINE!
+## Two options to get the data:
+
+**Send a mail to RocketDataScientist@gmail.com with the folowing details:**
+
+* Group name
+* Team leader name + mobile number (for whatsapp group notifications)
+* Group participants names
+
+**Come to the Rafael booth with your laptop between 18:00-19:00**
+
+
 ![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/blob/master/logo.jpg "It takes a rocket data scientist!")
 
 <div dir="rtl">
