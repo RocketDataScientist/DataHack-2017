@@ -59,5 +59,5 @@
 </div>
 
 ![visualization](/visualiztion/Picture1.png)
-![glyph atom SSD 525GB](http://datastores.co.uk/wp-content/uploads/2017/04/glyph-atom-525gb-boxed-300x300.jpg)
+![glyph atom SSD 525GB](https://www.nettbee.com/Uploads/images/Nuevos/SKU473375-3.jpeg)
 
