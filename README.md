@@ -3,13 +3,13 @@
 # DATA IS ONLINE!
 ## Two options to get the data:
 
-**1.Send a mail to RocketDataScientist@gmail.com with the folowing details:**
+**Option (1) Send a mail to RocketDataScientist@gmail.com with the folowing details:**
 
 * Group name
 * Team leader name + mobile number (for whatsapp group notifications)
 * Group participants names
 
-**2.Come to the Rafael booth with your laptop between 18:00-19:00**
+**Option (2) Come to the Rafael booth with your laptop between 18:00-19:00**
 
 
 ![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/blob/master/logo.jpg "It takes a rocket data scientist!")
