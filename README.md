@@ -9,7 +9,7 @@
 * Team leader name + mobile number (for whatsapp group notifications)
 * Group participants names
 
-**Option (2) Come to the Rafael booth with your laptop between 18:00-19:00**
+**Option (2) Come to the Rafael booth with your laptop between 18:00-19:30**
 
 
 ![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/blob/master/logo.jpg "It takes a rocket data scientist!")
