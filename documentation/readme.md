@@ -1,4 +1,4 @@
-# In this folder you can find documantations of the participants
+# In this folder you can find documantation of the participants
 
 # Files:
 
