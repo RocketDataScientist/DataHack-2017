@@ -9,8 +9,8 @@
 ### DataHack Submissions:
 
 * Klil_DataHack_0.59.ipynb - Klil group submission ---> Score: 0.59
-* Syros_DataHack_0.62.R - Syros group submission ---> Score: 0.62 (Won the challange)
-* ArrTech/ - ArrTech group data ---> Score: 0.62 (Won the challange)
+* Syros_DataHack_0.62.R - Syros group submission ---> Score: 0.62 (Won the challenge)
+* ./ArrTech/ - ArrTech group data ---> Score: 0.62 (Won the challenge)
 
 # Final Scoreboard at DataHack 2017:
 ![scoreboard](https://github.com/RocketDataScientist/DataHack-2017/blob/master/documentation/ScoreBoard.jpg)
