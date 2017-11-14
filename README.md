@@ -4,7 +4,7 @@
 
 # DataHack has ended!
 
-**Thanks to all the participants! Final scoreboard and solutions can be found under the documentation folder.**
+**Thanks to all the participants! Final scoreboard and solutions can be found under the [documentation](documentation/readme.md) folder.**
 
 **If you wish to upload a solution, please use "pull request" or send it to RocketDataScientist@gmail.com**
 
