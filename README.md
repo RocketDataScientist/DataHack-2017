@@ -6,7 +6,7 @@
 
 **Thanks to all the participants! Final scoreboard and solutions can be found under the [documentation](documentation/readme.md) folder. We've already uploaded the two winning DataHack solutions by Syros and Arrtech, each having 0.62 F1 score, the interesting solution by the Klil group (0.59) and a later submission by Shafik, who uses an LSTM to reach the current community-SOTA for this problem (0.65)**
 
-**If you wish to upload a write-up for a solution or try a new submission please send it to RocketDataScientist@gmail.com**
+**If you wish to upload a write-up for a solution or try a new submission please send to RocketDataScientist@gmail.com**
 
 ![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/blob/master/logo.jpg "It takes a rocket data scientist!")
 
