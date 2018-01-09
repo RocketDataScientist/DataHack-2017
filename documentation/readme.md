@@ -4,7 +4,8 @@
 
 ### New submissions:
 
-* [Shafik_Nov7_0.65.ipynb](Shafik_Nov7_0.65.ipynb) - Shafik submission ---> Score: 0.65 (Community SOTA)
+* [Shafik_Nov18_0.67.ipynb](Shafik_Nov18_0.67.ipynb) - Shafik submission #2 ---> Score: 0.67 (Community SOTA)
+* [Shafik_Nov7_0.65.ipynb](Shafik_Nov7_0.65.ipynb) - Shafik submission ---> Score: 0.65 
 
 ### DataHack Submissions:
 
