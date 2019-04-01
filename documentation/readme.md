@@ -4,7 +4,8 @@
 
 ### New submissions:
 
-* [Shafik_Nov18_0.67.ipynb](Shafik_Nov18_0.67.ipynb) - Shafik submission #3 ---> Score: 0.67 (Community SOTA)
+* [Ronen_Kondratovsky_DataHack_0.75.ipynb](Ronen_Kondratovsky_DataHack_0.75.ipynb) - Ronen Kondratovsky ---> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Score 0.75 (Community SOTA) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+* [Shafik_Nov18_0.67.ipynb](Shafik_Nov18_0.67.ipynb) - Shafik submission #3 ---> Score: 0.67 
 * [Shafik_Nov7_0.65.ipynb](Shafik_Nov7_0.65.ipynb) - Shafik submission #2 ---> Score: 0.65 
 
 ### DataHack Submissions:
